@@ -1,5 +1,5 @@
 {
-  "name": "npm-publish-action",
+  "name": "@westinwrzesinski/npm-publish-action",
   "version": "1.0.0",
   "description": "",
   "main": "index.js",
